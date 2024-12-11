@@ -23,7 +23,7 @@ import EnrolledCourses from './UserDashboard/EnrolledCourses';
 import LearningPath from './UserDashboard/LearningPath';
 import Support from './UserDashboard/Support';
 import Notifications from './UserDashboard/Notifications';
-import NavigationPage from "./pages/redirect";
+import NavigationPage from "./pages/Redirect";
 import SidebarContext from "./components/context/SidebarContext";
 
 
